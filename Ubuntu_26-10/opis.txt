@@ -1,1 +1,7 @@
-tutaj znajdzją się pliki pierwszej tapety którą wysłałem na konkurs
+Informations about files for Ubuntu 26.10 "Stonking Stingray" Wallpaper Competition.
+
+Author: GrzesiekP (as gdap008)
+Used Software:
+  - Blender was used for main project and used to final render
+  - Gnu Image Manipulation Program (GIMP) was used for concept art of stingray main shape.
+
