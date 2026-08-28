@@ -1,1 +1,12 @@
+Szczegółowe informacje na temat projektu
 
+Najstarszy plik, czyli BarwyUbuntu.png , został stworzony do innego obrazu niż ten który został wysłany na konkurs.
+Był on wykorzystany jako tekstura do tła obrazu z kunkursu. 
+Swoją drogą to tło też niebyło stworzone pod ten obraz tylko pod mój własny prywatny projekt/obraz
+
+Za to stingray_mask2.png to plik który jest bezpośrednio utworzony pod ten projekt.
+Własnie na podstawie narysowanego przeze mnie kształtu płaszczki zrobiłem jej wzór w Blenderze.
+
+Ktoś mógłby się spytać: Czy jest plik stingray_mask1.png ?
+Oczywiście, istnieje taki plik ale nie dałem go tutaj na GitHuba bo to był pierwszy szkic płaczki, który tak na prawde nieprzypomina płaszczki.
+Dlatego musiałem sięgnąć do internetu i zobaczy dakładne proporcje płaszki. Następnie narysowałem poprawioną wersje "mask2".
