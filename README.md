@@ -1,5 +1,5 @@
 # WallpaperCompetition
-Hello! This repository is dedicated to the source files of the images that are made by me for the wallpaper competition made by the community on the Ubuntu operating system.
+Hello! This repository is dedicated to the source files of the images that are made by me for the wallpaper competition made by the community of the Ubuntu operating system.
 In addition, source of released wallpaper on competition has a updated version in folder with added name "updated" on ending.
 ---
 ## License information
