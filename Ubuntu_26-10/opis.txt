@@ -5,3 +5,10 @@ Used Software:
   - Blender was used for main project and used to final render
   - Gnu Image Manipulation Program (GIMP) was used for concept art of stingray main shape.
 
+Interesting fact about creation of this work
+  I didn't have it in my plans to create this repository and the wallpaper for competition, 
+  because I creating wallpapers for myself with my logo and my own concept art.
+  Of course I use Ubuntu accent colors because I like it, but not in all my works i use them.
+  Thing that convinced my to join the competition was a ending of my summer vacations, 
+  because I wanted to used last moments of vacation.
+  I was joined at last and I was happy with myself.
