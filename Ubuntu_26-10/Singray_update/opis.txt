@@ -1,1 +1,7 @@
 Here are the information about updated version of original stingray wallpaper
+
+There was a small change to create a dark wersion of stingray wallpaper.
+Screenshots showed a Hue/Saturation/Value Node in shader editor in Blender
+It was a some changes in numbers, just it, noting more.
+
+I don't made this in time because its too late ( there was 11 pm, when I sent it to competition website)
